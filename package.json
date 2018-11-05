@@ -5,7 +5,7 @@
     "node": ">=6"
   },
   "homepage": "https://github.com/freeCodeCamp/loopback-component-passport",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "bugs": {
     "url": "https://github.com/freeCodeCamp/loopback-component-passport/issues"
   },
